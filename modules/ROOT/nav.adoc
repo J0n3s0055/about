@@ -1,6 +1,6 @@
-* xref:home::index.adoc[]
+* xref:home::index.adoc[Home]
 
-* [.separated]#**About me**#
+* [.separated]#**About**#
 * xref:about::index.adoc[Who I am]
 * xref:about::cv.adoc[Curriculum Vitae]
 * xref:about::experience.adoc[Experience and Current Projects]
